@@ -8,6 +8,12 @@ Como um gamer nato, reconheço a importância da estratégia, da resiliência e 
 
 ## :computer: Tecnologias e Ferramentas
 
+## ⚡ GitHub Status
+<div>
+<a href="https://github.com/Eduardo-JP-Ferreira">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-JP-Ferreira&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduardo-JP-Ferreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 <!--
 **Eduardo-JP-Ferreira/Eduardo-JP-Ferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
