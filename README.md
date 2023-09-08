@@ -3,7 +3,11 @@
 ## :page_with_curl: Sobre
 
 Salve! Sou Eduardo Pires, um desenvolvedor de software movido por desafios e apaixonado por encontrar soluções inovadoras. Com uma trajetória de imersão em projetos de desenvolvimento, busco liberações de endorfina a cada tarefa concluída.
+
 Como um gamer nato, reconheço a importância da estratégia, da resiliência e da colaboração em cada vitória. Essas mesmas habilidades se entrelaçam perfeitamente com meu papel como desenvolvedor, onde a busca pela excelência e a capacidade de adaptação são essenciais.
+
+## :computer: Tecnologias e Ferramentas
+
 <!--
 **Eduardo-JP-Ferreira/Eduardo-JP-Ferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
