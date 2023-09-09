@@ -1,4 +1,4 @@
-### Seja bem vindo ao meu perfil do GitHub! 👋
+## 👋 Seja bem vindo ao meu perfil do GitHub! 
 
 ## :page_with_curl: Sobre
 
@@ -7,12 +7,16 @@ Salve! Sou Eduardo Pires, um desenvolvedor de software movido por desafios e apa
 Como um gamer nato, reconheço a importância da estratégia, da resiliência e da colaboração em cada vitória. Essas mesmas habilidades se entrelaçam perfeitamente com meu papel como desenvolvedor, onde a busca pela excelência e a capacidade de adaptação são essenciais.
 
 ## :computer: Tecnologias e Ferramentas
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+</div>
+
 
 ## ⚡ GitHub Status
 <div>
-<a href="https://github.com/Eduardo-JP-Ferreira">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-JP-Ferreira&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduardo-JP-Ferreira&rank_icon=github&show_icons=true&show=prs_merged_percentage&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/Eduardo-JP-Ferreira">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-JP-Ferreira&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduardo-JP-Ferreira&rank_icon=github&show_icons=true&show=prs_merged_percentage&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
 </div>
 <!--
 **Eduardo-JP-Ferreira/Eduardo-JP-Ferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
