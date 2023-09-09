@@ -8,7 +8,7 @@ Como um gamer nato, reconheço a importância da estratégia, da resiliência e 
 
 ## :computer: Tecnologias e Ferramentas
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+  <img loading="lazy" height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
 </div>
 
 
