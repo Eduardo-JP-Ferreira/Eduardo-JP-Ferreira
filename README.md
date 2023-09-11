@@ -37,6 +37,12 @@ Como um gamer nato, reconheço a importância da estratégia, da resiliência e 
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-JP-Ferreira&layout=compact&langs_count=7&theme=chartreuse-dark"/>
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduardo-JP-Ferreira&rank_icon=github&show_icons=true&show=prs_merged_percentage&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
 </div>
+
+## 📫 Sinta-se livre para entrar em contato
+<div>
+  <a href = "mailto:eduardopires2014@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/eduardo--pires/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
 <!--
 **Eduardo-JP-Ferreira/Eduardo-JP-Ferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
