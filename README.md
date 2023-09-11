@@ -19,7 +19,7 @@ Como um gamer nato, reconheço a importância da estratégia, da resiliência e 
   <img src='https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white'/> <img src='https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=Prisma&logoColor=white'/>
   <img src='https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white'/> <img src='https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white'/>
   <img src='https://img.shields.io/badge/Arduino-00878F.svg?style=for-the-badge&logo=Arduino&logoColor=white'/> <img src='https://img.shields.io/badge/Bluetooth-0082FC.svg?style=for-the-badge&logo=Bluetooth&logoColor=white'/>
-  <img src='https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white'/>
+  <img src='https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white'/> <img src='https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white'/>
   <img src='https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white'/> <img src='https://img.shields.io/badge/styledcomponents-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white'/>
   <img src='https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white'/> <img src='https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white'/>
   <img src='https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white'/> <img src='https://img.shields.io/badge/JSON%20Web%20Tokens-000000.svg?style=for-the-badge&logo=JSON-Web-Tokens&logoColor=white'/>
@@ -28,6 +28,7 @@ Como um gamer nato, reconheço a importância da estratégia, da resiliência e 
   <img src='https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white'/> <img src='https://img.shields.io/badge/Microsoft%20Office-D83B01.svg?style=for-the-badge&logo=Microsoft-Office&logoColor=white'/>
   <img src='https://img.shields.io/badge/Windows-0078D4.svg?style=for-the-badge&logo=Windows&logoColor=white'/>
   <img src='https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black'/> <img src='https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white'/>
+  <img src='https://img.shields.io/badge/Prettier-F7B93E.svg?style=for-the-badge&logo=Prettier&logoColor=black'/>
 </p>
 
 
