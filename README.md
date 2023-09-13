@@ -12,7 +12,7 @@ Salve! Sou Eduardo Pires, um desenvolvedor de software movido por desafios e apa
 Como um gamer nato, reconheço a importância da estratégia, da resiliência e da colaboração em cada vitória. Essas mesmas habilidades se entrelaçam perfeitamente com meu papel como desenvolvedor, onde a busca pela excelência e a capacidade de adaptação são essenciais.
 
 ## :computer: Tecnologias e Ferramentas
-<p align='justify'>
+<p >
   <img src='https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black'/> <img src='https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white'/>
   <img src='https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black'/> <img src='https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white'/>
   <img src='https://img.shields.io/badge/Nodemon-76D04B.svg?style=for-the-badge&logo=Nodemon&logoColor=white'/> <img src='https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=NestJS&logoColor=white'/> 
