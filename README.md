@@ -32,7 +32,9 @@ Como um gamer nato, reconheço a importância da estratégia, da resiliência e 
 
 ## :books: Atualmente estou aprendendo
 <p align='justify'>
-  <img src='https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white'/> <img src='https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white'/>
+  <img src='https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white'/> 
+  <img src='https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white'/>
+  <img src='https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=Angular&logoColor=white'/>
 </p>
 
 ## ⚡ GitHub Status
