@@ -1,7 +1,4 @@
 ## 👋 Seja bem vindo ao meu perfil do GitHub! 
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=Eduardo-JP-Ferreira" alt="page views">
-</p>
 
 ## :page_with_curl: Sobre
 
